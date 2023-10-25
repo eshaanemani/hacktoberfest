@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name: [Esha Nemani](https://github.com/eshaanemani)
+- Place: Mumbai, India
+- Bio: Student
+- Github: [eshaanemani](https://github.com/eshaanemani)
